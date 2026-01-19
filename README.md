@@ -1,7 +1,11 @@
 <div align="center">
 
 ## 🌐 Socials
+<a href="mailto:cephalocereus71@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-cephalocereus71%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<br/><br/>
 <a href="https://facebook.com/clitoria.ternatea.26709">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
 </a>
@@ -31,17 +35,21 @@
 <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 ---
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=cephalocereus&theme=radical&hide_border=false"/>
+
 <br/>
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=cephalocereus&theme=radical&hide_border=false"/>
+
 <br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cephalocereus&theme=radical&layout=compact"/>
 
----
+</div>
 
+<!-- 
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=cephalocereus&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
@@ -53,9 +61,6 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=cephalocereus&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 ---
-
 <img src="https://visitcount.itsvg.in/api?id=cephalocereus&icon=0&color=0"/>
-
+-->
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
