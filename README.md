@@ -9,7 +9,7 @@
 <a href="https://facebook.com/clitoria.ternatea.26709">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/mahmuda-akter--alif-567315225/">
+<a href="https://www.linkedin.com/in/mahmuda-akter-alif-567315225/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
 </a>
 
